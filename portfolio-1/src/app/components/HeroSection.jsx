@@ -44,7 +44,7 @@ const HeroSection = () => {
             >
               <div className="px-1 py-1 mr-4 w-full sm:w-fit rounded-full bg-transparent bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 hover:bg-slate-800 text-white">
                 <div className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">
-                  Download CV
+                  Download Resume
                 </div>
               </div>
             </a>
