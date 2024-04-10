@@ -15,7 +15,7 @@ const HeroSection = () => {
         >
           <h2 className="text-white mb-4 text-4xl sm:text-5xl lg:text-6xl font-extrabold">
             <span className=" text-transparent bg-clip-text  bg-gradient-to-r from-purple-500 to-pink-700 ">
-              Hello, I'm
+              {` Hello, I'm`}
             </span>
             <br />
             <TypeAnimation
@@ -26,10 +26,10 @@ const HeroSection = () => {
             />
           </h2>
           <p className="text-[#ADB7BE] text-base sm:text-lg  mb-6 lg:text-xl">
-            I'm a versatile full-stack developer skilled in JavaScript,NEXT.js
+            {` I'm a versatile full-stack developer skilled in JavaScript,NEXT.js
             React, Node.js, and more. Known for proactive problem-solving and a
             passion for collaborative projects, I'm committed to making
-            meaningful contributions.
+            meaningful contributions.`}
           </p>
           <div className="flex  ">
             <a
