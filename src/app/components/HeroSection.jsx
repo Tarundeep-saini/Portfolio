@@ -39,7 +39,7 @@ const HeroSection = () => {
               Hire Me
             </a>
             <a
-              href="/Files/Tarundeep-Saini-Resume.pdf"
+              href="/Files/Tarundeep Saini.pdf"
               download
               className="px-6 py-3 mr-4 w-full sm:w-fit  mb-2  text-white rounded-full  bg-gradient-to-br from-indigo-500 via-purple-500 to-pink-500 hover:bg-slate-200  "
             >
