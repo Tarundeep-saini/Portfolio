@@ -10,7 +10,7 @@ const Work = [
       "Enhanced user engagement by 35% through the implementation of animations using Framer Motion.",
       "Resolved critical form submission bugs, reducing error rates by 40% and ensuring enhanced data integrity.",
       "Developed the knowledge base section with Nextra, boosting content accessibility by 40%.",
-      "Improved VM launch speed by 20% through backend image format compatibility checks.",
+      "Improved VM launch speed by 20% through backend image format compatibility checks in Openstack.",
     ],
   },
   // You can add more work experience objects here
