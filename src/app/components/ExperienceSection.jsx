@@ -13,7 +13,7 @@ const Work = [
       "Improved VM launch speed by 20% through backend image format compatibility checks in Openstack.",
     ],
   },
-  // You can add more work experience objects here
+  // You can add more work experience objects here 
 ];
 
 const ExperienceSection = () => {
