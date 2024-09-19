@@ -22,7 +22,7 @@ const projectsData = [
       "Carshub is a platform that lets users search for and book cars with ease. Using filters like make, model, year, and fuel type, users can quickly find the right car. The app pulls real-time data from an external API to ensure up-to-date listings for a smooth booking experience. ",
     image: "images/Resources/carshub.png",
     tag: ["All", "Deployed"],
-    gitUrl: "https://github.com/Tarundeep-saini/doctor-appointment",
+    gitUrl: "https://github.com/Tarundeep-saini/carshub",
     previewurl: "https://carshub-nine.vercel.app",
   },
   {
