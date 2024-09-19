@@ -17,6 +17,16 @@ const projectsData = [
   },
   {
     id: 2,
+    title: "Carshub ",
+    description:
+      "Carshub is a platform that lets users search for and book cars with ease. Using filters like make, model, year, and fuel type, users can quickly find the right car. The app pulls real-time data from an external API to ensure up-to-date listings for a smooth booking experience. ",
+    image: "images/Resources/carshub.png",
+    tag: ["All", "Deployed"],
+    gitUrl: "https://github.com/Tarundeep-saini/doctor-appointment",
+    previewurl: "https://carshub-nine.vercel.app",
+  },
+  {
+    id: 3,
     title: "Form.io",
     description:
       "From.io allows users to create forms that encompass three different types of questions—categories, comprehension, and Cloze. Other users can then fill out these forms and review the results. The backend system conducts checks on the forms to uphold security measures throughout the process.",
@@ -26,7 +36,7 @@ const projectsData = [
     previewurl: "https://form-io.vercel.app",
   },
   {
-    id: 3,
+    id: 4,
     title: "Mobile E-Commerce Store",
     description:
       "In this project, people can buy and sell Mobiles and keep a record of their listings. All the information is stored in a MongoDB database, which holds data about users and products.",
@@ -36,7 +46,7 @@ const projectsData = [
     previewurl: null,
   },
   {
-    id: 4,
+    id: 5,
     title: "Chat Website",
     description:
       "This platform offers users the capability to register accounts, enabling communication through messages and file sharing. The exchanged messages are stored in a database for record-keeping.      ",
